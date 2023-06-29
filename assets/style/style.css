@@ -1,0 +1,20 @@
+/* BASIC STYLES HERE */
+.card-img {
+  height: 80%;
+  object-fit: cover;
+  object-position: center;
+}
+
+.closed-img {
+  background-image: url('../../assets/img/Rectangle.png');
+}
+
+.gifts-adjust {
+  height: 88vh;
+  overflow-y: auto;
+}
+
+.result-scroll {
+  height: 40vh;
+  overflow-y: auto;
+}
